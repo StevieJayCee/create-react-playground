@@ -1,7 +1,11 @@
 import logo from './logo.svg';
 import './App.css';
 
+import testing from "data-fetching-playground";
+
 function App() {
+  testing();
+
   return (
     <div className="App">
       <header className="App-header">
